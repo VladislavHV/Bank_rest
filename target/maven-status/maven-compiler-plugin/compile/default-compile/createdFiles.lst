@@ -1,10 +1,10 @@
-com\example\bankcards\model\User.class
 com\example\bankcards\controller\BankCardController.class
 com\example\bankcards\service\AuthService.class
 com\example\bankcards\security\JwtAuthentication.class
 com\example\bankcards\controller\UserController.class
 com\example\bankcards\dto\AuthRequest.class
 com\example\bankcards\security\JwtAuthFilter.class
+com\example\bankcards\entity\User.class
 com\example\bankcards\dto\AuthResponse.class
 com\example\bankcards\model\Role.class
 com\example\bankcards\dto\BankCardRequest.class
@@ -16,8 +16,10 @@ com\example\bankcards\controller\AdminController.class
 com\example\bankcards\dto\RegisterRequest.class
 com\example\bankcards\entity\BankCard.class
 com\example\bankcards\config\EncoderConfig.class
-com\example\bankcards\bank_rest.class
+com\example\bankcards\exception\GlobalExceptionHandler.class
 com\example\bankcards\service\BankCardService.class
+com\example\bankcards\BankRestApplication.class
+com\example\bankcards\security\LoggingFilter.class
 com\example\bankcards\controller\AuthController.class
 com\example\bankcards\security\JwtUtils.class
 com\example\bankcards\repository\UserRepository.class

@@ -1,6 +1,5 @@
 package com.example.bankcards.entity;
 
-import com.example.bankcards.model.User;
 import jakarta.persistence.*;
 
 import java.time.LocalDate;

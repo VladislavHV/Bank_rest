@@ -5,9 +5,12 @@ C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\secur
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\controller\UserController.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\dto\RegisterRequest.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\entity\BankCard.java
+C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\BankRestApplication.java
+C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\exception\GlobalExceptionHandler.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\repository\UserRepository.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\dto\UserResponse.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\repository\BankCardRepository.java
+C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\security\LoggingFilter.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\controller\BankCardController.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\config\EncoderConfig.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\controller\AdminController.java
@@ -17,9 +20,8 @@ C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\secur
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\dto\BankCardResponse.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\controller\AuthController.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\model\Role.java
-C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\model\User.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\security\SecurityConfig.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\security\JwtService.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\service\AuthService.java
 C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\dto\AuthRequest.java
-C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\bank_rest.java
+C:\Users\Влад-2\IdeaProjects\bank_rest\src\main\java\com\example\bankcards\entity\User.java
