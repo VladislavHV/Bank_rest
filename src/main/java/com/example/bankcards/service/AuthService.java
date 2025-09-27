@@ -4,7 +4,7 @@ import com.example.bankcards.dto.AuthRequest;
 import com.example.bankcards.dto.AuthResponse;
 import com.example.bankcards.dto.RegisterRequest;
 import com.example.bankcards.model.Role;
-import com.example.bankcards.model.User;
+import com.example.bankcards.entity.User;
 import com.example.bankcards.repository.UserRepository;
 import com.example.bankcards.security.JwtUtils;
 import org.springframework.beans.factory.annotation.Autowired;

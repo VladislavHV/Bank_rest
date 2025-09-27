@@ -1,14 +1,27 @@
 package com.example.bankcards.dto;
 
+import jakarta.validation.constraints.Future;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
+
 import java.time.LocalDate;
 
 public class BankCardRequest {
 
+    @NotBlank(message = "Card number is required")
     private String cardNumber;
+
+    @NotBlank(message = "Card holder is required")
     private String cardHolder;
+
+    @NotNull(message = "Expiration date is required")
+    @Future(message = "Expiration date must be in the future")
     private LocalDate expirationDate;
-    private boolean active;
+
+    @NotBlank(message = "CVV is required")
     private String cvv;
+
+    private boolean active;
 
     public BankCardRequest(boolean active, String cardHolder, String cardNumber, LocalDate expirationDate) {
         this.active = active;

@@ -1,6 +1,6 @@
 package com.example.bankcards.security;
 
-import com.example.bankcards.model.User;
+import com.example.bankcards.entity.User;
 import com.example.bankcards.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
