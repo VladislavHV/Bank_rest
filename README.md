@@ -81,7 +81,6 @@ src/
 
 ## 1. Клонировать проект
 
-```bash
 git clone https://gitlab.com/your-username/bank_rest.git
 cd bank_rest
 
