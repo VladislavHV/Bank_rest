@@ -81,7 +81,7 @@ src/
 
 ## 1. Клонировать проект
 
-git clone https://gitlab.com/your-username/bank_rest.git
+git clone https://github.com/VladislavHV/Bank_rest.git
 cd bank_rest
 
 ## 2. Создать базу данных:
